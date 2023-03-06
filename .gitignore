@@ -1,0 +1,5 @@
+../PriceMDs_2/.gradle
+.idea
+build
+*.class
+*.jar
